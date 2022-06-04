@@ -1,0 +1,2 @@
+# resolusiku
+membuat resolusi kedepan
