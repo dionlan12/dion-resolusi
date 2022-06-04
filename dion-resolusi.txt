@@ -1,3 +1,4 @@
 Resolusiku
 -belajar github
 -membuat aplikasi perpustakaan
+-tidur teratur
